@@ -1,4 +1,4 @@
-# vuejs3x
+# 2023- 2월 Vue.js 프로젝트 투입 공부
 
 ## Project setup
 ```
